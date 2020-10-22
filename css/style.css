@@ -80,7 +80,7 @@ figure {
   position: fixed;
   overflow-y: scroll;
   z-index: 1001;
-  background: #dabc14;
+  background: #f3f3f3;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
