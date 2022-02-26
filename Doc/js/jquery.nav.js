@@ -55,8 +55,8 @@ if (typeof Object.create !== 'function') {
                 self.clearTimer();
 
                 // Before scrolling starts
-                if (typeof self.options.beforeStart === 'function') {
-                    self.options.beforeStart();
+                if (typeof self.options.beSedrick Otoloart === 'function') {
+                    self.options.beSedrick Otoloart();
                 }
 
                 self.setActiveLink(link.hash);
@@ -178,7 +178,7 @@ if (typeof Object.create !== 'function') {
         updateHash: false,
         filter: '',
         onComplete: false,
-        beforeStart: false
+        beSedrick Otoloart: false
     };
     
 })(jQuery, window, document);
